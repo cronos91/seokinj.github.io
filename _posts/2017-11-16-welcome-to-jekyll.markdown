@@ -21,8 +21,11 @@ print_hi('Tom')
 Jekyll also offers Mathjax:
 
 double dollar signs : `$$...$$`
+
 inline math : `\\(...\\)`
+
 mathsf(mathbf) : `\matsh` `\mathbf`
+
 subscript(underscores with backslash) : `\mathbf{X}\_{n,p}`
 
 
